@@ -1,0 +1,23 @@
+export const images = {
+  bg: require("../assets/images/bg.png"),
+  logo: require("../assets/logo/logo.png"),
+  promo: require("../assets/images/promo.png"),
+  kfc: require("../assets/logo/kfc.png"),
+  nandos: require("../assets/logo/nandos.png"),
+  starbucks: require("../assets/logo/starbucks.png"),
+  happy: require("../assets/logo/happy.png"),
+  search: require("../assets/icons/search.png"),
+  home: require("../assets/icons/home.png"),
+  person: require("../assets/icons/person.png"),
+  doctor: require("../assets/icons/doctor.png"),
+  restaurant: require("../assets/icons/restaurant.png"),
+  medical: require("../assets/icons/doctor.png"),
+  construction: require("../assets/icons/builder.png"),
+  mirror: require("../assets/icons/mirror.png"),
+  location: require("../assets/icons/location.png"),
+  star: require("../assets/icons/star.png"),
+
+  // homeIcon: require("../assets/icons//home.png"),
+  // profileIcon: require("../assets/icons/person.png"),
+  // searchIcon: require("../assets/icons//search.png"),
+};
